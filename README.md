@@ -2,7 +2,7 @@
 
 ![](ss.png)
 
-Slack blank icon helps you create ASCII art using a emoji on slack.
+Slack blank icon helps you create AA (ASCII art) using a emoji on slack.
 
 ## Instration
 
@@ -37,6 +37,29 @@ You type this code on your slack.
 And then, see below:
 
 ![](ss.png)
+
+## Example AA
+
+### OK
+
+```
+:ok::ok::ok::blank::ok::blank::ok:
+:ok::blank::ok::blank::ok::ok:
+:ok::ok::ok::blank::ok::blank::ok:
+```
+
+![](ok.png)
+
+### NO
+
+```
+:tired_face::blank::blank::tired_face::blank::tired_face::tired_face::tired_face:
+:tired_face::tired_face::blank::tired_face::blank::tired_face::blank::tired_face:
+:tired_face::blank::tired_face::tired_face::blank::tired_face::blank::tired_face:
+:tired_face::blank::blank::tired_face::blank::tired_face::tired_face::tired_face:
+```
+
+![](no.png)
 
 ## LICENSE
 
